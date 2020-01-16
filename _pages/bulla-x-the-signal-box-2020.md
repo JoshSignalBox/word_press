@@ -84,7 +84,7 @@ post_date: 2020-01-13 01:43:39
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading -->
-<h2><strong>Our method</strong></h2>
+<h2><strong>Our&nbsp;method</strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"customTextColor":"#666767","className":"gray-text-block"} -->
